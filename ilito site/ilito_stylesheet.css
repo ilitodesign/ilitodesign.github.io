@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(89,63,255);
+  }
+  img {
+    animation-name: x;
+    animation-duration: 1s;
+    width: 9%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 300px;
+  }
+  @keyframes x {
+    from {width: 0%;}
+    to {width: 9%;}
+  }
