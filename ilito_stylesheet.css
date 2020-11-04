@@ -18,5 +18,12 @@ p {
     font-family: 'Oxygen', sans-serif;
     color: white;
     text-align: center;
-    font-size: 50px;
+    font-size: 20px;
+        animation-name: y;
+    animation-duration: 1s;
 }
+  }
+  @keyframes y {
+    from {font-size: 0px;}
+    to {font-size: 20px;}
+  }
