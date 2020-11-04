@@ -14,3 +14,7 @@ body {
     from {width: 0%;}
     to {width: 9%;}
   }
+p {
+    font-family: 'Oxygen', sans-serif;
+    color: white;
+}
